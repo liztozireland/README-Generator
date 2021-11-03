@@ -1,5 +1,5 @@
 # bananas
 ## Table of Contents
-* [License] (#license)
+* [License](#license)
 ## License
 bananas
