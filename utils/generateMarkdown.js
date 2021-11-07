@@ -22,10 +22,18 @@ ${license}`
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
-${renderLicenseBadge(data.license)}
+# ${data.motivation}
+# ${data.problem}  
 ## Table of Contents
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credits](#credits)
 * [License](#license)
+* [Test](#test)
+* [Github](#github)
+* [Questions](#questions)
 ${renderLicenseSection(data.license)}
+${renderLicenseBadge(data.license)}
 `;
 }
 
