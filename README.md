@@ -1,10 +1,11 @@
-# let's try this again
-
-[![License](https://img.shields.io/badge/License-none-blue.svg)](https://opensource.org/licenses/none)
+# title
+## License
+GPL_3.0
+[![License](https://img.shields.io/badge/License-GPL_3.0-blue.svg)](https://opensource.org/licenses/GPL_3.0)
 #Description 
-just work
-Our motivation to start this project: please work
-We want to solve: why are you not working  
+blarg
+Our motivation to start this project: just work
+We want to solve: i need this to work  
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -13,19 +14,20 @@ We want to solve: why are you not working
 * [Test](#test)
 * [Github](#github)
 * [Questions](#questions)
-#Installation
+#[Installation]
 The following necessary dependencies need to be installed to properly run this application:
-waaahhh
+why are you not working
 ##Instructions and Examples for Use:
-pain
+just be a dear
 ##Collaborators, Third-Party APIs, and Tutorials Used:
-suffering
+and work ok?
 ##Liscense:
-
-[![License](https://img.shields.io/badge/License-none-blue.svg)](https://opensource.org/licenses/none)
+## License
+GPL_3.0
+[![License](https://img.shields.io/badge/License-GPL_3.0-blue.svg)](https://opensource.org/licenses/GPL_3.0)
 ##Test Instructions:
-death
+why do you hate me?
 ##Github Link:
-hate
+whyyyy?
 ##If you have any questions, email me!
-sadness
+dear god why
