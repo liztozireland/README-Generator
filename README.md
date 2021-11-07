@@ -1,11 +1,13 @@
-# my project
+# witty title here
 ## License
-GPL_3.0
-[![License](https://img.shields.io/badge/License-GPL_3.0-blue.svg)](https://opensource.org/licenses/GPL_3.0)
+BSD_3
+[![License](https://img.shields.io/badge/License-BSD_3-blue.svg)](https://opensource.org/licenses/BSD_3), [License: MIT](https://img.shields.io/badge/License-BSD_3-MIT-yellow.svg)](https://opensource.org/licenses/BSD_3), [![License](https://img.shields.io/badge/License-BSD_3-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD_3)
 ## Description 
-hopefully my project works
-Our motivation to start this project: maybe the lack of spaces broke it
-We want to solve: we shall see  
+whew, the spaces worked
+## Description
+Our motivation to start this project: we're so close to being done
+## What Problem do We Want to Solve?
+We want to solve: I can see the finish line of this homework  
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -14,20 +16,20 @@ We want to solve: we shall see
 * [Test](#test)
 * [Github](#github)
 * [Questions](#questions)
-#[Installation]
+## Installation]
 The following necessary dependencies need to be installed to properly run this application:
-way too many steps
+we just need to test the liscense
 ## Instructions and Examples for Use:
-not yet because it's not working
+please, please, please work
 ## Collaborators, Third-Party APIs, and Tutorials Used:
-just some YT tutorials
+or else it's back to the drawing board
 ## Liscense:
 ## License
-GPL_3.0
-[![License](https://img.shields.io/badge/License-GPL_3.0-blue.svg)](https://opensource.org/licenses/GPL_3.0)
+BSD_3
+[![License](https://img.shields.io/badge/License-BSD_3-blue.svg)](https://opensource.org/licenses/BSD_3), [License: MIT](https://img.shields.io/badge/License-BSD_3-MIT-yellow.svg)](https://opensource.org/licenses/BSD_3), [![License](https://img.shields.io/badge/License-BSD_3-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD_3)
 ## Test Instructions:
-My tutor also helped me
+Let's see if that license worked
 ## Github Link:
-link here
+surprisingly, license is a hard word to spell
 ## If you have any questions, email me!
-address here
+email at email dot com

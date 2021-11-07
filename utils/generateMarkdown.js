@@ -1,7 +1,7 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
-  return `[![License](https://img.shields.io/badge/License-${license}-blue.svg)](https://opensource.org/licenses/${license})`
+  return `[![License](https://img.shields.io/badge/License-${license}-blue.svg)](https://opensource.org/licenses/${license}), [License: MIT](https://img.shields.io/badge/License-${license}-MIT-yellow.svg)](https://opensource.org/licenses/${license}), [![License](https://img.shields.io/badge/License-${license}-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/${license})`
 }
 
 // TODO: Create a function that returns the license link
@@ -26,7 +26,9 @@ ${renderLicenseSection(data.license)}
 ${renderLicenseBadge(data.license)}
 ## Description 
 ${data.description}
+## Description
 Our motivation to start this project: ${data.motivation}
+## What Problem do We Want to Solve?
 We want to solve: ${data.problem}  
 ## Table of Contents
 * [Installation](#installation)
@@ -36,7 +38,7 @@ We want to solve: ${data.problem}
 * [Test](#test)
 * [Github](#github)
 * [Questions](#questions)
-#[Installation]
+## Installation]
 The following necessary dependencies need to be installed to properly run this application:
 ${data.installation}
 ## Instructions and Examples for Use:
