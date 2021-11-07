@@ -25,8 +25,8 @@ function generateMarkdown(data) {
 ${renderLicenseSection(data.license)}
 ${renderLicenseBadge(data.license)}
 ##What movtivated us to create this project?
-${data.motivation}
-${data.problem}  
+#${data.motivation}
+#${data.problem}  
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
