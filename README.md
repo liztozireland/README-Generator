@@ -1,13 +1,13 @@
-# witty title here
+# witty title
 ## License
-BSD_3
-[![License](https://img.shields.io/badge/License-BSD_3-blue.svg)](https://opensource.org/licenses/BSD_3), [License: MIT](https://img.shields.io/badge/License-BSD_3-MIT-yellow.svg)](https://opensource.org/licenses/BSD_3), [![License](https://img.shields.io/badge/License-BSD_3-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD_3)
+MIT
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT), [License: MIT](https://img.shields.io/badge/License-MIT-MIT-yellow.svg)](https://opensource.org/licenses/MIT), [![License](https://img.shields.io/badge/License-MIT-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/MIT)
 ## Description 
-whew, the spaces worked
+That may have worked, trying something again
 ## Description
-Our motivation to start this project: we're so close to being done
+Our motivation to start this project: let's see
 ## What Problem do We Want to Solve?
-We want to solve: I can see the finish line of this homework  
+We want to solve: dear lord just get to the license question  
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -18,18 +18,18 @@ We want to solve: I can see the finish line of this homework
 * [Questions](#questions)
 ## Installation]
 The following necessary dependencies need to be installed to properly run this application:
-we just need to test the liscense
+whyyy are there so many steps
 ## Instructions and Examples for Use:
-please, please, please work
+too many steps, ugh, whyyy
 ## Collaborators, Third-Party APIs, and Tutorials Used:
-or else it's back to the drawing board
+enough with the questions
 ## Liscense:
 ## License
-BSD_3
-[![License](https://img.shields.io/badge/License-BSD_3-blue.svg)](https://opensource.org/licenses/BSD_3), [License: MIT](https://img.shields.io/badge/License-BSD_3-MIT-yellow.svg)](https://opensource.org/licenses/BSD_3), [![License](https://img.shields.io/badge/License-BSD_3-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD_3)
+MIT
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT), [License: MIT](https://img.shields.io/badge/License-MIT-MIT-yellow.svg)](https://opensource.org/licenses/MIT), [![License](https://img.shields.io/badge/License-MIT-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/MIT)
 ## Test Instructions:
-Let's see if that license worked
+Even though I wrote the questions
 ## Github Link:
-surprisingly, license is a hard word to spell
+I am totally over them
 ## If you have any questions, email me!
-email at email dot com
+me at me dot com
