@@ -1,9 +1,10 @@
-# title here
+# let's try this again
 
 [![License](https://img.shields.io/badge/License-none-blue.svg)](https://opensource.org/licenses/none)
-##What movtivated us to create this project?
-#motivation
-#so many issues  
+#Description 
+just work
+Our motivation to start this project: please work
+We want to solve: why are you not working  
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -12,18 +13,19 @@
 * [Test](#test)
 * [Github](#github)
 * [Questions](#questions)
-#Steps Required to Install this Project
-please let this work
+#Installation
+The following necessary dependencies need to be installed to properly run this application:
+waaahhh
 ##Instructions and Examples for Use:
-I hope this works
+pain
 ##Collaborators, Third-Party APIs, and Tutorials Used:
-just work with me here
+suffering
 ##Liscense:
 
 [![License](https://img.shields.io/badge/License-none-blue.svg)](https://opensource.org/licenses/none)
 ##Test Instructions:
-I really, really need this to work
+death
 ##Github Link:
-please just do the thing
+hate
 ##If you have any questions, email me!
-pleaseeeeeeeeeeeeeeeee?
+sadness

@@ -13,6 +13,11 @@ const questions = [
     },
     {
       type: 'input',
+      name: 'description',
+      message: 'Provide a brief summary of what your project does.',
+    },
+    {
+      type: 'input',
       name: 'motivation',
       message: 'What was your motivation to build this project?',
     },

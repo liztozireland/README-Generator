@@ -24,9 +24,10 @@ function generateMarkdown(data) {
   return `# ${data.title}
 ${renderLicenseSection(data.license)}
 ${renderLicenseBadge(data.license)}
-##What movtivated us to create this project?
-#${data.motivation}
-#${data.problem}  
+#Description 
+${data.description}
+Our motivation to start this project: ${data.motivation}
+We want to solve: ${data.problem}  
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -35,7 +36,8 @@ ${renderLicenseBadge(data.license)}
 * [Test](#test)
 * [Github](#github)
 * [Questions](#questions)
-#Steps Required to Install this Project
+#Installation
+The following necessary dependencies need to be installed to properly run this application:
 ${data.installation}
 ##Instructions and Examples for Use:
 ${data.usage}
