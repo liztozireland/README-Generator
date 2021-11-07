@@ -24,8 +24,9 @@ function generateMarkdown(data) {
   return `# ${data.title}
 ${renderLicenseSection(data.license)}
 ${renderLicenseBadge(data.license)}
-# ${data.motivation}
-# ${data.problem}  
+#What movtivated us to create this project?
+${data.motivation}
+${data.problem}  
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -34,8 +35,21 @@ ${renderLicenseBadge(data.license)}
 * [Test](#test)
 * [Github](#github)
 * [Questions](#questions)
+#Steps Required to Install this Project
+${data.installation}
+#Instructions and Examples for Use:
+${data.usage}
+#Collaborators, Third-Party APIs, and Tutorials Used:
+${data.credits}
+#Liscense:
 ${renderLicenseSection(data.license)}
 ${renderLicenseBadge(data.license)}
+#Test Instructions:
+${data.test}
+#Github Link:
+${data.github}
+#If you have any questions, email me!
+${data.questions}
 `;
 }
 
