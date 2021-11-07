@@ -47,7 +47,7 @@ We want to solve: ${data.problem}
 * [Test](#test)
 * [Github](#github)
 * [Questions](#questions)
-## Installation]
+## Installation
 The following necessary dependencies need to be installed to properly run this application:
 ${data.installation}
 ## Instructions and Examples for Use:
